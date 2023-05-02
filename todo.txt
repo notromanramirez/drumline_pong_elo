@@ -1,0 +1,2 @@
+- add dropdown filters for year in band, type of instrument played
+	- add these fields to players.csv
