@@ -1,4 +1,4 @@
-﻿date,event,match_number,fe1,fe2,t1p1,t1p2,t2p1,t2p2,score1,score2
+﻿date,event,match_number,fe1,fe2,t1p1,t1p2,t2p1,t2p2,score1,score2,notes
 2021-12-04,2021_2s,1,FALSE,FALSE,Rose Roché,Aaron Carter,Brian Tafazoli,Evan Sooklal,6,3
 2021-12-04,2021_2s,2,FALSE,FALSE,Coby Lovelace,Jason Jackson,Jack Massingill,Will Simpson,6,3
 2021-12-04,2021_2s,3,FALSE,FALSE,Kevin Cooper,Roman Ramirez,Ann Hall,Anna Brown,6,3
@@ -96,3 +96,8 @@
 2023-04-28,2023_1s,35,TRUE,TRUE,Nathan Snow,,Aaron Carter,,7,9
 2023-04-28,2023_1s,36,FALSE,TRUE,Levin Lee,,Aaron Carter,,5,6
 2023-04-28,2023_1s,37,TRUE,TRUE,Aaron Carter,,Levin Lee,,6,2
+2023-05-04,2023_RS,,,,Aaron Carter,Will Simpson,Cassie Deering,Roman Ramirez,6,1
+2023-05-04,2023_RS,,,,Aaron Carter,Will Simpson,Nathan Snow,Leah Baetcke,6,4
+2023-05-04,2023_RS,,,,Aaron Carter,Will Simpson,Paul Bartenfeld,Coby Lovelace,6,3
+2023-05-04,2023_RS,,,,Aaron Carter,Will Simpson,Ann Hall,Coby Lovelace,6,4,idk if ann and coby is correct
+2023-05-04,2023_RS,,,,Aaron Carter,Will Simpson,Leah Baetcke,Roman Ramirez,6,1
