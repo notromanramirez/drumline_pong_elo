@@ -2,17 +2,17 @@
 2021-12-04,2021_2s,1,FALSE,FALSE,Rose Roché,Aaron Carter,Brian Tafazoli,Evan Sooklal,6,3
 2021-12-04,2021_2s,2,FALSE,FALSE,Coby Lovelace,Jason Jackson,Jack Massingill,Will Simpson,6,3
 2021-12-04,2021_2s,3,FALSE,FALSE,Kevin Cooper,Roman Ramirez,Ann Hall,Anna Brown,6,3
-2021-12-04,2021_2s,4,FALSE,FALSE,Rohan Chowla,Levin Lee,Paul Bartenfeld,Leah Baetcke,6,0
+2021-12-04,2021_2s,4,FALSE,FALSE,Rohan Chowla,Kevin Lee,Paul Bartenfeld,Leah Baetcke,6,0
 2021-12-04,2021_2s,5,TRUE,TRUE,Brian Tafazoli,Evan Sooklal,Jack Massingill,Will Simpson,4,6
 2021-12-04,2021_2s,6,TRUE,TRUE,Ann Hall,Anna Brown,Paul Bartenfeld,Leah Baetcke,6,4
 2021-12-04,2021_2s,7,FALSE,FALSE,Rose Roché,Aaron Carter,Coby Lovelace,Jason Jackson,5,6
-2021-12-04,2021_2s,8,FALSE,FALSE,Kevin Cooper,Roman Ramirez,Rohan Chowla,Levin Lee,5,6
+2021-12-04,2021_2s,8,FALSE,FALSE,Kevin Cooper,Roman Ramirez,Rohan Chowla,Kevin Lee,5,6
 2021-12-04,2021_2s,9,TRUE,TRUE,Kevin Cooper,Roman Ramirez,Ann Hall,Anna Brown,6,5
 2021-12-04,2021_2s,10,TRUE,TRUE,Rose Roché,Aaron Carter,Jack Massingill,Will Simpson,5,6
 2021-12-04,2021_2s,11,TRUE,TRUE,Jack Massingill,Will Simpson,Kevin Cooper,Roman Ramirez,5,6
-2021-12-04,2021_2s,12,FALSE,FALSE,Coby Lovelace,Jason Jackson,Rohan Chowla,Levin Lee,6,5
-2021-12-04,2021_2s,13,TRUE,TRUE,Rohan Chowla,Levin Lee,Kevin Cooper,Roman Ramirez,6,3
-2021-12-04,2021_2s,14,TRUE,TRUE,Coby Lovelace,Jason Jackson,Rohan Chowla,Levin Lee,11,12
+2021-12-04,2021_2s,12,FALSE,FALSE,Coby Lovelace,Jason Jackson,Rohan Chowla,Kevin Lee,6,5
+2021-12-04,2021_2s,13,TRUE,TRUE,Rohan Chowla,Kevin Lee,Kevin Cooper,Roman Ramirez,6,3
+2021-12-04,2021_2s,14,TRUE,TRUE,Coby Lovelace,Jason Jackson,Rohan Chowla,Kevin Lee,11,12
 2022-04-08,2022_1s,1,FALSE,FALSE,Paul Bartenfeld,,Jason Jackson,,4,6
 2022-04-08,2022_1s,2,FALSE,FALSE,Rose Roché,,Gabe Silverstein,,5,6
 2022-04-08,2022_1s,3,FALSE,FALSE,Aaron Carter,,Leah Baetcke,,2,6
@@ -46,19 +46,19 @@
 2022-10-15,2022_2s,2,FALSE,FALSE,Cason Duszak,Jason Jackson,Gabe Silverstein,Jack Massingill,5,6
 2022-10-15,2022_2s,3,FALSE,FALSE,Kevin Cooper,Roman Ramirez,Ann Hall,Leah Baetcke,6,5
 2022-10-15,2022_2s,4,FALSE,FALSE,Rose Roché,Aaron Carter,Coby Lovelace,Will Simpson,5,6
-2022-10-15,2022_2s,5,FALSE,FALSE,Rohan Chowla,Levin Lee,Helen Dunn,Noah Dale,6,1
+2022-10-15,2022_2s,5,FALSE,FALSE,Rohan Chowla,Kevin Lee,Helen Dunn,Noah Dale,6,1
 2022-10-15,2022_2s,6,TRUE,TRUE,Rose Roché,Aaron Carter,Paul Bartenfeld,Yvonne Nguyen,6,4
 2022-10-15,2022_2s,7,TRUE,TRUE,Cason Duszak,Jason Jackson,Helen Dunn,Noah Dale,9,8
 2022-10-15,2022_2s,8,TRUE,TRUE,Ann Hall,Leah Baetcke,Rose Roché,Aaron Carter,7,9
 2022-10-15,2022_2s,9,FALSE,FALSE,Kevin Cooper,Roman Ramirez,Coby Lovelace,Will Simpson,6,4
-2022-10-15,2022_2s,10,FALSE,FALSE,Rohan Chowla,Levin Lee,Gabe Silverstein,Jack Massingill,6,4
+2022-10-15,2022_2s,10,FALSE,FALSE,Rohan Chowla,Kevin Lee,Gabe Silverstein,Jack Massingill,6,4
 2022-10-15,2022_2s,11,TRUE,TRUE,Coby Lovelace,Will Simpson,Cason Duszak,Jason Jackson,6,2
 2022-10-15,2022_2s,12,TRUE,TRUE,Gabe Silverstein,Jack Massingill,Rose Roché,Aaron Carter,6,2
 2022-10-15,2022_2s,13,TRUE,TRUE,Gabe Silverstein,Jack Massingill,Coby Lovelace,Will Simpson,6,3
-2022-10-15,2022_2s,14,FALSE,FALSE,Rohan Chowla,Levin Lee,Kevin Cooper,Roman Ramirez,4,6
-2022-10-15,2022_2s,15,TRUE,TRUE,Rohan Chowla,Levin Lee,Gabe Silverstein,Jack Massingill,6,5
-2022-10-15,2022_2s,16,FALSE,TRUE,Kevin Cooper,Roman Ramirez,Rohan Chowla,Levin Lee,3,6
-2022-10-15,2022_2s,17,TRUE,TRUE,Kevin Cooper,Roman Ramirez,Rohan Chowla,Levin Lee,6,5
+2022-10-15,2022_2s,14,FALSE,FALSE,Rohan Chowla,Kevin Lee,Kevin Cooper,Roman Ramirez,4,6
+2022-10-15,2022_2s,15,TRUE,TRUE,Rohan Chowla,Kevin Lee,Gabe Silverstein,Jack Massingill,6,5
+2022-10-15,2022_2s,16,FALSE,TRUE,Kevin Cooper,Roman Ramirez,Rohan Chowla,Kevin Lee,3,6
+2022-10-15,2022_2s,17,TRUE,TRUE,Kevin Cooper,Roman Ramirez,Rohan Chowla,Kevin Lee,6,5
 2023-04-28,2023_1s,1,FALSE,FALSE,Ann Hall,,Cason Duszak,,3,6
 2023-04-28,2023_1s,2,FALSE,FALSE,Cassie Deering,,Yvonne Nguyen,,5,6
 2023-04-28,2023_1s,3,FALSE,FALSE,Matthew Rusten,,Paul Bartenfeld,,6,5
@@ -69,7 +69,7 @@
 2023-04-28,2023_1s,8,FALSE,FALSE,Leah Baetcke,,Sam Tellis,,6,0
 2023-04-28,2023_1s,9,FALSE,FALSE,Roman Ramirez,,Cason Duszak,,4,6
 2023-04-28,2023_1s,10,FALSE,FALSE,Rohan Chowla,,Yvonne Nguyen,,6,4
-2023-04-28,2023_1s,11,FALSE,FALSE,Levin Lee,,Matthew Rusten,,6,4
+2023-04-28,2023_1s,11,FALSE,FALSE,Kevin Lee,,Matthew Rusten,,6,4
 2023-04-28,2023_1s,12,TRUE,TRUE,Coby Lovelace,,Paul Bartenfeld,,6,3
 2023-04-28,2023_1s,13,TRUE,TRUE,Gabe Silverstein,,Cassie Deering,,6,0
 2023-04-28,2023_1s,14,TRUE,TRUE,Sam Tellis,,Ann Hall,,2,6
@@ -80,7 +80,7 @@
 2023-04-28,2023_1s,19,FALSE,FALSE,Piper Parker,,Nathan Snow,,5,6
 2023-04-28,2023_1s,20,FALSE,FALSE,Cason Duszak,,Aaron Carter,,4,6
 2023-04-28,2023_1s,21,FALSE,FALSE,Rohan Chowla,,Will Simpson,,9,7
-2023-04-28,2023_1s,22,FALSE,FALSE,Levin Lee,,Leah Baetcke,,6,4
+2023-04-28,2023_1s,22,FALSE,FALSE,Kevin Lee,,Leah Baetcke,,6,4
 2023-04-28,2023_1s,23,TRUE,TRUE,Piper Parker,,Ann Hall,,5,6
 2023-04-28,2023_1s,24,TRUE,TRUE,Cason Duszak,,Yvonne Nguyen,,5,6
 2023-04-28,2023_1s,25,TRUE,TRUE,Will Simpson,,Coby Lovelace,,6,5
@@ -88,16 +88,28 @@
 2023-04-28,2023_1s,27,TRUE,TRUE,Ann Hall,,Yvonne Nguyen,,5,6
 2023-04-28,2023_1s,28,TRUE,TRUE,Gabe Silverstein,,Will Simpson,,2,6
 2023-04-28,2023_1s,29,FALSE,FALSE,Aaron Carter,,Nathan Snow,,5,6
-2023-04-28,2023_1s,30,FALSE,FALSE,Rohan Chowla,,Levin Lee,,2,6
+2023-04-28,2023_1s,30,FALSE,FALSE,Rohan Chowla,,Kevin Lee,,2,6
 2023-04-28,2023_1s,31,TRUE,TRUE,Aaron Carter,,Will Simpson,,6,5
 2023-04-28,2023_1s,32,TRUE,TRUE,Rohan Chowla,,Yvonne Nguyen,,6,5
 2023-04-28,2023_1s,33,TRUE,TRUE,Rohan Chowla,,Aaron Carter,,1,6
-2023-04-28,2023_1s,34,FALSE,FALSE,Nathan Snow,,Levin Lee,,4,6
+2023-04-28,2023_1s,34,FALSE,FALSE,Nathan Snow,,Kevin Lee,,4,6
 2023-04-28,2023_1s,35,TRUE,TRUE,Nathan Snow,,Aaron Carter,,7,9
-2023-04-28,2023_1s,36,FALSE,TRUE,Levin Lee,,Aaron Carter,,5,6
-2023-04-28,2023_1s,37,TRUE,TRUE,Aaron Carter,,Levin Lee,,6,2
+2023-04-28,2023_1s,36,FALSE,TRUE,Kevin Lee,,Aaron Carter,,5,6
+2023-04-28,2023_1s,37,TRUE,TRUE,Aaron Carter,,Kevin Lee,,6,2
 2023-05-04,2023_RS,,,,Aaron Carter,Will Simpson,Cassie Deering,Roman Ramirez,6,1
 2023-05-04,2023_RS,,,,Aaron Carter,Will Simpson,Nathan Snow,Leah Baetcke,6,4
 2023-05-04,2023_RS,,,,Aaron Carter,Will Simpson,Paul Bartenfeld,Coby Lovelace,6,3
 2023-05-04,2023_RS,,,,Aaron Carter,Will Simpson,Ann Hall,Coby Lovelace,6,4,idk if ann and coby is correct
 2023-05-04,2023_RS,,,,Aaron Carter,Will Simpson,Leah Baetcke,Roman Ramirez,6,1
+2023-05-13,2023_RS_BW,,,,Aaron Carter,Coby Lovelace,Bronte Sundstrom,Paul Bartenfeld,6,4,hourglass
+2023-05-13,2023_RS_BW,,,,Aaron Carter,Coby Lovelace,Roman Ramirez,Leah Baetcke,6,5,hourglass
+2023-05-13,2023_RS_BW,,,,Kevin Lee,Rohan Chowla,Sam Tellis,Ann Hall,6,2,dye
+2023-05-13,2023_RS_BW,,,,Aaron Carter,Coby Lovelace,Spencer Harris,Cason Duszak,6,5,hourglass
+2023-05-13,2023_RS_BW,,,,Kevin Lee,Rohan Chowla,Aaron Carter,Coby Lovelace,6,4,dye
+2023-05-13,2023_RS_BW,,,,Aaron Carter,Coby Lovelace,Bronte Sundstrom,Leah Baetcke,5,6,hourglass
+2023-05-13,2023_RS_BW,,,,Kevin Lee,Rohan Chowla,Cason Duszak,Roman Ramirez,4,6,dye
+2023-05-13,2023_RS_BW,,,,Bronte Sundstrom,Leah Baetcke,Cason Duszak,Roman Ramirez,6,4,dye
+2023-05-20,2023_RS,,,,Will Simpson,Parker Simpson,Aaron Carter,Roman Ramirez,8,9
+2023-05-20,2023_RS,,,,Gabe Silverstein,Kevin Lee,Aaron Carter,Roman Ramirez,3,6
+2023-05-20,2023_RS,,,,Abby LeahFriend,Leah Baetcke,Aaron Carter,Roman Ramirez,3,6
+2023-05-20,2023_RS,,,,Spencer Harris,Ann Hall,Aaron Carter,Roman Ramirez,3,6
