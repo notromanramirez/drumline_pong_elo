@@ -1,15 +1,15 @@
 event,match_number,fe1,fe2,t1p1,t1p2,t2p1,t2p2,score1,score2
 2023_2s,1,FALSE,FALSE,Rohan Chowla,Kevin Lee,Noah Dale,Yafu LastName,6,5
 2023_2s,2,FALSE,FALSE,Gabe Silverstein,Alex LastName,Luci Nguyen,Matthew Rusten,3,6
-2023_2s,3,FALSE,FALSE,Cason Duszak,Eric LastName,Piper Parker,Kim LastName,6,3
+2023_2s,3,FALSE,FALSE,Cason Duszak,Eric Edwards,Piper Parker,Kim LastName,6,3
 2023_2s,4,FALSE,FALSE,Nathan Snow,Jason Jackson,Julie Jackson,Carolyn LastName,6,4
 2023_2s,5,TRUE,TRUE,Noah Dale,Yafu LastName,Gabe Silverstein,Alex LastName,5,6
 2023_2s,6,TRUE,TRUE,Piper Parker,Kim LastName,Julie Jackson,Carolyn LastName,2,6
 2023_2s,7,FALSE,FALSE,Rohan Chowla,Kevin Lee,Luci Nguyen,Matthew Rusten,6,2
-2023_2s,8,FALSE,FALSE,Cason Duszak,Eric LastName,Nathan Snow,Jason Jackson,6,5
+2023_2s,8,FALSE,FALSE,Cason Duszak,Eric Edwards,Nathan Snow,Jason Jackson,6,5
 2023_2s,9,TRUE,TRUE,Luci Nguyen,Matthew Rusten,Julie Jackson,Carolyn LastName,6,5
 2023_2s,10,TRUE,TRUE,Nathan Snow,Jason Jackson,Gabe Silverstein,Alex LastName,6,5
 2023_2s,11,TRUE,TRUE,Nathan Snow,Jason Jackson,Luci Nguyen,Matthew Rusten,9,7
-2023_2s,12,FALSE,FALSE,Rohan Chowla,Kevin Lee,Cason Duszak,Eric LastName,6,5
-2023_2s,13,TRUE,TRUE,Cason Duszak,Eric LastName,Nathan Snow,Jason Jackson,6,5
-2023_2s,14,FALSE,TRUE,Rohan Chowla,Kevin Lee,Cason Duszak,Eric LastName,9,8
+2023_2s,12,FALSE,FALSE,Rohan Chowla,Kevin Lee,Cason Duszak,Eric Edwards,6,5
+2023_2s,13,TRUE,TRUE,Cason Duszak,Eric Edwards,Nathan Snow,Jason Jackson,6,5
+2023_2s,14,FALSE,TRUE,Rohan Chowla,Kevin Lee,Cason Duszak,Eric Edwards,9,8

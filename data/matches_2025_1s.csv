@@ -1,0 +1,27 @@
+event,match_number,fe1,fe2,p1,p2,score1,score2
+2025_1s,1,FALSE,FALSE,Milen Satish,Noah Dale,6,2
+2025_1s,2,FALSE,FALSE,Matthew Werfel,Alexis Alms,6,4
+2025_1s,3,FALSE,FALSE,Gabe Silverstein,Ronan McKinney,5,6
+2025_1s,4,FALSE,FALSE,Matthew Kish,Connor Rogers,4,6
+2025_1s,5,FALSE,FALSE,Eric Edwards,Julie Jackson,6,3
+2025_1s,6,FALSE,FALSE,Autumn Hong,Bryce Taylor,6,5
+2025_1s,7,TRUE,TRUE,Alexis Alms,Gabe Silverstein,2,6
+2025_1s,8,TRUE,TRUE,Julie Jackson,Bryce Taylor,3,6
+2025_1s,9,FALSE,FALSE,Kevin Lee,Milen Satish,6,3
+2025_1s,10,FALSE,FALSE,Matthew Werfel,Ronan McKinney,6,5
+2025_1s,11,FALSE,FALSE,Rohan Chowla,Connor Rogers,6,4
+2025_1s,12,FALSE,FALSE,Eric Edwards,Autumn Hong,5,6
+2025_1s,13,TRUE,TRUE,Milen Satish,Bryce Taylor,8,9
+2025_1s,14,TRUE,TRUE,Ronan McKinney,Matthew Kish,4,6
+2025_1s,15,TRUE,TRUE,Connor Rogers,Gabe Silverstein,5,6
+2025_1s,16,TRUE,TRUE,Eric Edwards,Noah Dale,6,5
+2025_1s,17,TRUE,TRUE,Matthew Kish,Bryce Taylor,6,4
+2025_1s,18,TRUE,TRUE,Eric Edwards,Gabe Silverstein,6,5
+2025_1s,19,FALSE,FALSE,Kevin Lee,Matthew Werfel,6,5
+2025_1s,20,FALSE,FALSE,Rohan Chowla,Autumn Hong,5,6
+2025_1s,21,TRUE,TRUE,Matthew Werfel,Eric Edwards,6,5
+2025_1s,22,TRUE,TRUE,Rohan Chowla,Matthew Kish,6,5
+2025_1s,23,TRUE,TRUE,Matthew Werfel,Rohan Chowla,4,6
+2025_1s,24,FALSE,FALSE,Kevin Lee,Autumn Hong,6,4
+2025_1s,25,TRUE,TRUE,Autumn Hong,Rohan Chowla,6,4
+2025_1s,26,FALSE,TRUE,Kevin Lee,Autumn Hong,6,4

@@ -1,0 +1,13 @@
+event,match_number,fe1,fe2,t1p1,t1p2,t2p1,t2p2,score1,score2
+2024_2s,1,FALSE,FALSE,Milen Satish,Luke Woods,Matthew Kish,Connor Rogers,5,6
+2024_2s,2,FALSE,FALSE,Eric Edwards,Cason Duszak,Luci Nguyen,Rasmi Tangirala,6,5
+2024_2s,3,FALSE,FALSE,Gabe Silverstein,Noah Dale,Alexis Alms,Charles Myersberg,6,5
+2024_2s,4,TRUE,TRUE,Luci Nguyen,Rasmi Tangirala,Alexis Alms,Charles Myersberg,6,5
+2024_2s,5,FALSE,FALSE,Rohan Chowla,Kevin Lee,Matthew Kish,Connor Rogers,6,5
+2024_2s,6,FALSE,FALSE,Eric Edwards,Cason Duszak,Gabe Silverstein,Noah Dale,6,5
+2024_2s,7,TRUE,TRUE,Matthew Kish,Connor Rogers,Luci Nguyen,Rasmi Tangirala,6,3
+2024_2s,8,TRUE,TRUE,Gabe Silverstein,Noah Dale,Milen Satish,Luke Woods,3,6
+2024_2s,9,TRUE,TRUE,Milen Satish,Luke Woods,Matthew Kish,Connor Rogers,6,3
+2024_2s,10,FALSE,FALSE,Rohan Chowla,Kevin Lee,Eric Edwards,Cason Duszak,6,3
+2024_2s,11,TRUE,TRUE,Eric Edwards,Cason Duszak,Milen Satish,Luke Woods,4,6
+2024_2s,12,FALSE,TRUE,Rohan Chowla,Kevin Lee,Milen Satish,Luke Woods,6,2
